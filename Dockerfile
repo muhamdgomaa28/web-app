@@ -12,3 +12,4 @@ FROM nginx:1.17.1-alpine
 
 COPY --from=build-step /wepapp/dist/angular-starter /usr/share/nginx/html
 
+
