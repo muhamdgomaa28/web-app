@@ -10,3 +10,5 @@ Steps to run the app
 2 - run docker image on port 4200 >> sudo docker run -p 4200:80  webapp:latest
 
 3 - redirect to >> localhost:4200 
+
+note : switch to master branch to see repository
